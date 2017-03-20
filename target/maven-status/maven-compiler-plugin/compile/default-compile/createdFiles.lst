@@ -1,0 +1,3 @@
+com\mycompany\springmvc\controller\AppController.class
+com\mycompany\springmvc\configuration\AppInitializer.class
+com\mycompany\springmvc\configuration\AppConfig.class
